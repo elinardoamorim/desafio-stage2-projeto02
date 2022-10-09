@@ -17,9 +17,9 @@ Projeto construído no programa Explorer da Rocketseat.
 
 ### ✅ Correções realizada no arquivo HTML
 
-1 - Desenho de uma mulher fazendo exercício de pular corda dentro da tag <nav> utilizada para conter o menu da página. O desenho foi movido para o final da tag <main>.
+1 - Desenho de uma mulher fazendo exercício de pular corda dentro da tag "nav" utilizada para conter o menu da página. O desenho foi movido para o final da tag "main".
 
-2 - Botão localizando dentro da tag <section>, movida para depois do parágrafo como pede o projeto do figma.
+2 - Botão localizando dentro da tag "section", movida para depois do parágrafo como pede o projeto do figma.
 
 3 - Faltando uma quebra de linha no parágrafo.
 
