@@ -1,6 +1,6 @@
 # Explorer
 
-> Trilha Explorer - Stage 02 - Introdução ao HTML e CSS - Desafio corrindo código
+> Trilha Explorer - Stage 02 - Introdução ao HTML e CSS - Desafio corrigindo código
 
 Projeto construído no programa Explorer da Rocketseat.
 
